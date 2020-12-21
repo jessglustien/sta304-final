@@ -1,0 +1,233 @@
+"","gender","province","education","age_factor","n"
+"1","Female","Alberta","Highschool","0-20",13
+"2","Female","Alberta","Highschool","21-40",73
+"3","Female","Alberta","Highschool","41-60",74
+"4","Female","Alberta","Highschool","61-80",83
+"5","Female","Alberta","Less than highschool","0-20",2
+"6","Female","Alberta","Less than highschool","21-40",13
+"7","Female","Alberta","Less than highschool","41-60",12
+"8","Female","Alberta","Less than highschool","61-80",43
+"9","Female","Alberta","Other","21-40",220
+"10","Female","Alberta","Other","41-60",204
+"11","Female","Alberta","Other","61-80",145
+"12","Female","British Columbia","Highschool","0-20",13
+"13","Female","British Columbia","Highschool","21-40",68
+"14","Female","British Columbia","Highschool","41-60",79
+"15","Female","British Columbia","Highschool","61-80",156
+"16","Female","British Columbia","Less than highschool","21-40",12
+"17","Female","British Columbia","Less than highschool","41-60",19
+"18","Female","British Columbia","Less than highschool","61-80",80
+"19","Female","British Columbia","Other","0-20",1
+"20","Female","British Columbia","Other","21-40",225
+"21","Female","British Columbia","Other","41-60",342
+"22","Female","British Columbia","Other","61-80",314
+"23","Female","Manitoba","Highschool","0-20",5
+"24","Female","Manitoba","Highschool","21-40",37
+"25","Female","Manitoba","Highschool","41-60",45
+"26","Female","Manitoba","Highschool","61-80",67
+"27","Female","Manitoba","Less than highschool","0-20",3
+"28","Female","Manitoba","Less than highschool","21-40",13
+"29","Female","Manitoba","Less than highschool","41-60",12
+"30","Female","Manitoba","Less than highschool","61-80",64
+"31","Female","Manitoba","Other","0-20",1
+"32","Female","Manitoba","Other","21-40",110
+"33","Female","Manitoba","Other","41-60",124
+"34","Female","Manitoba","Other","61-80",124
+"35","Female","New Brunswick","Highschool","0-20",4
+"36","Female","New Brunswick","Highschool","21-40",37
+"37","Female","New Brunswick","Highschool","41-60",66
+"38","Female","New Brunswick","Highschool","61-80",82
+"39","Female","New Brunswick","Less than highschool","0-20",1
+"40","Female","New Brunswick","Less than highschool","21-40",4
+"41","Female","New Brunswick","Less than highschool","41-60",13
+"42","Female","New Brunswick","Less than highschool","61-80",94
+"43","Female","New Brunswick","Other","0-20",3
+"44","Female","New Brunswick","Other","21-40",107
+"45","Female","New Brunswick","Other","41-60",172
+"46","Female","New Brunswick","Other","61-80",146
+"47","Female","Newfoundland and Labrador","Highschool","0-20",4
+"48","Female","Newfoundland and Labrador","Highschool","21-40",23
+"49","Female","Newfoundland and Labrador","Highschool","41-60",40
+"50","Female","Newfoundland and Labrador","Highschool","61-80",52
+"51","Female","Newfoundland and Labrador","Less than highschool","0-20",2
+"52","Female","Newfoundland and Labrador","Less than highschool","21-40",2
+"53","Female","Newfoundland and Labrador","Less than highschool","41-60",26
+"54","Female","Newfoundland and Labrador","Less than highschool","61-80",84
+"55","Female","Newfoundland and Labrador","Other","21-40",117
+"56","Female","Newfoundland and Labrador","Other","41-60",140
+"57","Female","Newfoundland and Labrador","Other","61-80",102
+"58","Female","Nova Scotia","Highschool","0-20",3
+"59","Female","Nova Scotia","Highschool","21-40",37
+"60","Female","Nova Scotia","Highschool","41-60",53
+"61","Female","Nova Scotia","Highschool","61-80",75
+"62","Female","Nova Scotia","Less than highschool","21-40",5
+"63","Female","Nova Scotia","Less than highschool","41-60",18
+"64","Female","Nova Scotia","Less than highschool","61-80",79
+"65","Female","Nova Scotia","Other","0-20",1
+"66","Female","Nova Scotia","Other","21-40",124
+"67","Female","Nova Scotia","Other","41-60",172
+"68","Female","Nova Scotia","Other","61-80",173
+"69","Female","Ontario","Highschool","0-20",30
+"70","Female","Ontario","Highschool","21-40",135
+"71","Female","Ontario","Highschool","41-60",185
+"72","Female","Ontario","Highschool","61-80",331
+"73","Female","Ontario","Less than highschool","0-20",10
+"74","Female","Ontario","Less than highschool","21-40",22
+"75","Female","Ontario","Less than highschool","41-60",50
+"76","Female","Ontario","Less than highschool","61-80",211
+"77","Female","Ontario","Other","0-20",2
+"78","Female","Ontario","Other","21-40",590
+"79","Female","Ontario","Other","41-60",764
+"80","Female","Ontario","Other","61-80",644
+"81","Female","Prince Edward Island","Highschool","0-20",2
+"82","Female","Prince Edward Island","Highschool","21-40",23
+"83","Female","Prince Edward Island","Highschool","41-60",29
+"84","Female","Prince Edward Island","Highschool","61-80",45
+"85","Female","Prince Edward Island","Less than highschool","0-20",1
+"86","Female","Prince Edward Island","Less than highschool","21-40",3
+"87","Female","Prince Edward Island","Less than highschool","41-60",7
+"88","Female","Prince Edward Island","Less than highschool","61-80",37
+"89","Female","Prince Edward Island","Other","21-40",58
+"90","Female","Prince Edward Island","Other","41-60",93
+"91","Female","Prince Edward Island","Other","61-80",102
+"92","Female","Quebec","Highschool","0-20",14
+"93","Female","Quebec","Highschool","21-40",61
+"94","Female","Quebec","Highschool","41-60",120
+"95","Female","Quebec","Highschool","61-80",215
+"96","Female","Quebec","Less than highschool","0-20",2
+"97","Female","Quebec","Less than highschool","21-40",27
+"98","Female","Quebec","Less than highschool","41-60",62
+"99","Female","Quebec","Less than highschool","61-80",271
+"100","Female","Quebec","Other","0-20",5
+"101","Female","Quebec","Other","21-40",421
+"102","Female","Quebec","Other","41-60",449
+"103","Female","Quebec","Other","61-80",357
+"104","Female","Saskatchewan","Highschool","0-20",4
+"105","Female","Saskatchewan","Highschool","21-40",39
+"106","Female","Saskatchewan","Highschool","41-60",35
+"107","Female","Saskatchewan","Highschool","61-80",66
+"108","Female","Saskatchewan","Less than highschool","0-20",5
+"109","Female","Saskatchewan","Less than highschool","21-40",7
+"110","Female","Saskatchewan","Less than highschool","41-60",11
+"111","Female","Saskatchewan","Less than highschool","61-80",59
+"112","Female","Saskatchewan","Other","0-20",1
+"113","Female","Saskatchewan","Other","21-40",123
+"114","Female","Saskatchewan","Other","41-60",103
+"115","Female","Saskatchewan","Other","61-80",121
+"116","Male","Alberta","Highschool","0-20",9
+"117","Male","Alberta","Highschool","21-40",77
+"118","Male","Alberta","Highschool","41-60",69
+"119","Male","Alberta","Highschool","61-80",49
+"120","Male","Alberta","Less than highschool","0-20",4
+"121","Male","Alberta","Less than highschool","21-40",10
+"122","Male","Alberta","Less than highschool","41-60",25
+"123","Male","Alberta","Less than highschool","61-80",44
+"124","Male","Alberta","Other","0-20",2
+"125","Male","Alberta","Other","21-40",175
+"126","Male","Alberta","Other","41-60",185
+"127","Male","Alberta","Other","61-80",138
+"128","Male","British Columbia","Highschool","0-20",18
+"129","Male","British Columbia","Highschool","21-40",81
+"130","Male","British Columbia","Highschool","41-60",87
+"131","Male","British Columbia","Highschool","61-80",116
+"132","Male","British Columbia","Less than highschool","0-20",6
+"133","Male","British Columbia","Less than highschool","21-40",8
+"134","Male","British Columbia","Less than highschool","41-60",31
+"135","Male","British Columbia","Less than highschool","61-80",70
+"136","Male","British Columbia","Other","21-40",194
+"137","Male","British Columbia","Other","41-60",241
+"138","Male","British Columbia","Other","61-80",273
+"139","Male","Manitoba","Highschool","0-20",6
+"140","Male","Manitoba","Highschool","21-40",42
+"141","Male","Manitoba","Highschool","41-60",49
+"142","Male","Manitoba","Highschool","61-80",57
+"143","Male","Manitoba","Less than highschool","0-20",2
+"144","Male","Manitoba","Less than highschool","21-40",10
+"145","Male","Manitoba","Less than highschool","41-60",27
+"146","Male","Manitoba","Less than highschool","61-80",67
+"147","Male","Manitoba","Other","21-40",90
+"148","Male","Manitoba","Other","41-60",96
+"149","Male","Manitoba","Other","61-80",94
+"150","Male","New Brunswick","Highschool","0-20",4
+"151","Male","New Brunswick","Highschool","21-40",21
+"152","Male","New Brunswick","Highschool","41-60",55
+"153","Male","New Brunswick","Highschool","61-80",62
+"154","Male","New Brunswick","Less than highschool","0-20",1
+"155","Male","New Brunswick","Less than highschool","21-40",5
+"156","Male","New Brunswick","Less than highschool","41-60",20
+"157","Male","New Brunswick","Less than highschool","61-80",73
+"158","Male","New Brunswick","Other","0-20",1
+"159","Male","New Brunswick","Other","21-40",88
+"160","Male","New Brunswick","Other","41-60",123
+"161","Male","New Brunswick","Other","61-80",110
+"162","Male","Newfoundland and Labrador","Highschool","0-20",5
+"163","Male","Newfoundland and Labrador","Highschool","21-40",26
+"164","Male","Newfoundland and Labrador","Highschool","41-60",38
+"165","Male","Newfoundland and Labrador","Highschool","61-80",33
+"166","Male","Newfoundland and Labrador","Less than highschool","0-20",1
+"167","Male","Newfoundland and Labrador","Less than highschool","21-40",5
+"168","Male","Newfoundland and Labrador","Less than highschool","41-60",35
+"169","Male","Newfoundland and Labrador","Less than highschool","61-80",55
+"170","Male","Newfoundland and Labrador","Other","0-20",1
+"171","Male","Newfoundland and Labrador","Other","21-40",88
+"172","Male","Newfoundland and Labrador","Other","41-60",94
+"173","Male","Newfoundland and Labrador","Other","61-80",81
+"174","Male","Nova Scotia","Highschool","0-20",6
+"175","Male","Nova Scotia","Highschool","21-40",52
+"176","Male","Nova Scotia","Highschool","41-60",51
+"177","Male","Nova Scotia","Highschool","61-80",57
+"178","Male","Nova Scotia","Less than highschool","0-20",3
+"179","Male","Nova Scotia","Less than highschool","21-40",8
+"180","Male","Nova Scotia","Less than highschool","41-60",28
+"181","Male","Nova Scotia","Less than highschool","61-80",68
+"182","Male","Nova Scotia","Other","0-20",1
+"183","Male","Nova Scotia","Other","21-40",100
+"184","Male","Nova Scotia","Other","41-60",142
+"185","Male","Nova Scotia","Other","61-80",131
+"186","Male","Ontario","Highschool","0-20",27
+"187","Male","Ontario","Highschool","21-40",172
+"188","Male","Ontario","Highschool","41-60",197
+"189","Male","Ontario","Highschool","61-80",217
+"190","Male","Ontario","Less than highschool","0-20",6
+"191","Male","Ontario","Less than highschool","21-40",22
+"192","Male","Ontario","Less than highschool","41-60",50
+"193","Male","Ontario","Less than highschool","61-80",160
+"194","Male","Ontario","Other","0-20",2
+"195","Male","Ontario","Other","21-40",452
+"196","Male","Ontario","Other","41-60",598
+"197","Male","Ontario","Other","61-80",517
+"198","Male","Prince Edward Island","Highschool","0-20",5
+"199","Male","Prince Edward Island","Highschool","21-40",20
+"200","Male","Prince Edward Island","Highschool","41-60",27
+"201","Male","Prince Edward Island","Highschool","61-80",25
+"202","Male","Prince Edward Island","Less than highschool","0-20",3
+"203","Male","Prince Edward Island","Less than highschool","21-40",2
+"204","Male","Prince Edward Island","Less than highschool","41-60",13
+"205","Male","Prince Edward Island","Less than highschool","61-80",29
+"206","Male","Prince Edward Island","Other","21-40",52
+"207","Male","Prince Edward Island","Other","41-60",48
+"208","Male","Prince Edward Island","Other","61-80",54
+"209","Male","Quebec","Highschool","0-20",19
+"210","Male","Quebec","Highschool","21-40",79
+"211","Male","Quebec","Highschool","41-60",117
+"212","Male","Quebec","Highschool","61-80",138
+"213","Male","Quebec","Less than highschool","0-20",5
+"214","Male","Quebec","Less than highschool","21-40",49
+"215","Male","Quebec","Less than highschool","41-60",75
+"216","Male","Quebec","Less than highschool","61-80",169
+"217","Male","Quebec","Other","0-20",2
+"218","Male","Quebec","Other","21-40",370
+"219","Male","Quebec","Other","41-60",371
+"220","Male","Quebec","Other","61-80",289
+"221","Male","Saskatchewan","Highschool","0-20",5
+"222","Male","Saskatchewan","Highschool","21-40",64
+"223","Male","Saskatchewan","Highschool","41-60",51
+"224","Male","Saskatchewan","Highschool","61-80",60
+"225","Male","Saskatchewan","Less than highschool","0-20",2
+"226","Male","Saskatchewan","Less than highschool","21-40",7
+"227","Male","Saskatchewan","Less than highschool","41-60",19
+"228","Male","Saskatchewan","Less than highschool","61-80",46
+"229","Male","Saskatchewan","Other","0-20",2
+"230","Male","Saskatchewan","Other","21-40",104
+"231","Male","Saskatchewan","Other","41-60",81
+"232","Male","Saskatchewan","Other","61-80",86
