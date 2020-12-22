@@ -10,7 +10,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 # Keywords 
-Post Stratification, Multiple Regression Model, Survey, Elections, Voter Turnout
+Post Stratification, Multi-Level Regression, Survey, Elections, Voter Turnout
 
 # Introduction 
 
